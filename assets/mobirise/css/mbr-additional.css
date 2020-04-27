@@ -1286,7 +1286,7 @@ section.lazy-placeholder:after {
 .cid-rSI7ZwntAo .mbr-text,
 .cid-rSI7ZwntAo .mbr-section-btn {
   color: #767676;
-  text-align: left;
+  text-align: center;
 }
 @media (max-width: 767px) {
   .cid-rSI7ZwntAo img {
@@ -4222,6 +4222,9 @@ section.lazy-placeholder:after {
 }
 .cid-rV5nddV1uN .mbr-text {
   color: #767676;
+  text-align: left;
+}
+.cid-rV5nddV1uN H1 {
   text-align: left;
 }
 .cid-rV4LCJ0Iyr {
